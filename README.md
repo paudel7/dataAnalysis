@@ -1,5 +1,5 @@
 # dataAnalysis
-NOTE: PLEASE OPEN html file TO SEE SOME MAJOR OUTPUT here:
+NOTE: Please OPEN html file to VIEW some output:
 https://paudel7.github.io/dataAnalysis/
 
 
