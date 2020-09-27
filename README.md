@@ -1,5 +1,7 @@
 # dataAnalysis
-NOTE: PLEASE OPEN html file TO SEE SOME MAJOR OUTPUT
+NOTE: PLEASE OPEN html file TO SEE SOME MAJOR OUTPUT here:
+https://paudel7.github.io/dataAnalysis/
+
 
 Movie Data Analysis
 This is movie data analysis of Hollywood movies.
