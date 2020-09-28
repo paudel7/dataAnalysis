@@ -1,5 +1,5 @@
 # dataAnalysis
-NOTE: Please CLICK to VIEW some output (As in html file):
+NOTE: Please CLICK to VIEW some output (As in html file "GitHub-hosted STATIC WEBSITE):
 https://paudel7.github.io/dataAnalysis/
 
 
